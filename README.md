@@ -71,8 +71,34 @@ abel@dev:~$ status
   <img src="https://img.shields.io/badge/CYBERSECURITY-ff2bd6?style=flat-square&logo=hackthebox&logoColor=white&labelColor=050816"/>
 </p>
 
-<!-- ═══════════════ WORK ═══════════════ -->
-<h2 align="center">⟨ EXPLORE MY WORK ⟩</h2>
+<!-- ═══════════════ PROJECTS ═══════════════ -->
+<h2 align="center">⟨ FEATURED PROJECTS ⟩</h2>
+
+<p align="center">
+  <a href="https://github.com/abelmuturi-dev/LIPAS">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abelmuturi-dev&repo=LIPAS&theme=dark&hide_border=true&bg_color=050816&title_color=ff2bd6&text_color=c7d2fe&icon_color=2f6bff" alt="LIPAS repo card"/>
+  </a>
+  <a href="https://github.com/abelmuturi-dev/ralink-toolkit">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abelmuturi-dev&repo=ralink-toolkit&theme=dark&hide_border=true&bg_color=050816&title_color=ff2bd6&text_color=c7d2fe&icon_color=2f6bff" alt="ralink-toolkit repo card"/>
+  </a>
+</p>
+
+<table align="center">
+  <tr>
+    <td width="340" valign="top">
+      <b>🔍 <a href="https://github.com/abelmuturi-dev/LIPAS">LIPAS</a></b> — Lightweight Penetration Assessment Suite<br/>
+      <sub>Modular Python web security tool: subdomain enumeration, DNS recon, port scanning, tech fingerprinting, SQLi/XSS detection, and header security analysis.</sub>
+    </td>
+    <td width="340" valign="top">
+      <b>📡 <a href="https://github.com/abelmuturi-dev/ralink-toolkit">ralink-toolkit</a></b> — Wireless Adapter Toolkit<br/>
+      <sub>Python toolkit for the ALFA AWUS036NH (Ralink RT3070L): TX power boost, monitor mode, scanning, deauth, and WPS Pixie Dust testing.</sub>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <sub>Most of my work lives in private repositories — the above are my public highlights.</sub>
+</p>
 
 <p align="center">
   <a href="https://github.com/abelmuturi-dev?tab=repositories">
